@@ -18,7 +18,7 @@ This project is a simple Task Management API built with Node.js. It allows users
 Clone the repository:
 
 ```
- git clone https://github.com/yourusername/task-management-api.git
+ git clone https://github.com/Endrio-Maciel/task-management-api.git
 ```
 
 Navigate to the project directory:
